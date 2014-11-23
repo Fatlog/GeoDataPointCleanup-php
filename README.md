@@ -5,6 +5,7 @@ Clean a  set of geographic data points by removing erroneous entries.
 Develop a program that, given a series of points (latitude, longitude, timestamp) for a cab journey from A to B, will disregard potentially erroneous points.
 
 Overview
+========
 Leaflet.js was used to visualise the data both before it was cleaned and after it was cleaned.
 Map.html shows both the uncleaned & cleaned data points on a map.
 
